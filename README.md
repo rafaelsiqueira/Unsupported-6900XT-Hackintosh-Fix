@@ -4,9 +4,6 @@
 This guide is made to get certain RX 6900XT cards working in Mac OS.
 Currently, 6900XT cards of the XTX varaint work fine under Mac OS Big Sur and Monterey. However, the XTXH variant of the 6900XT, such as the PowerColor RX 6900XT Ultimate, are not natively supported currently (Mac OS Monterey 12.0.1 as of writting this guide).
 
-I have posted my full EFI config with my RX 6900XT working in another [repository](https://github.com/TylerLyczak/Hackintosh-10850k-ASUS-Z490-XII-Hero-6900XT) if you would like to look over that too.
-
-
 ## Prerequisites
 ---
 
